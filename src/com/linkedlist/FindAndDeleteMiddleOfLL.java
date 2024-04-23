@@ -31,6 +31,7 @@ public class FindAndDeleteMiddleOfLL {
 	}
 	
 	public Node pushAtEnd(Node last, int value) {
+		// Here, insertion at end of LL is done with constant time complexity
 		Node newNode= new Node(value);
 		if (last == null) {
 			last= newNode;
