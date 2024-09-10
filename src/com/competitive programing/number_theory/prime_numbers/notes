@@ -1,0 +1,4 @@
+A number have a positive divisor, other than one and itself.
+  EX: 2,3,5,7,11,13,17,19,....
+
+Number -> 1 is neither prime nor composite
